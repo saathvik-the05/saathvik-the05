@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @saathvik-the05
-- 👀 I’m interested in History, PolarBears , Minecraft
-- 🌱 I’m currently learning Minecraft , History
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in coding , math 
 - 📫 How to reach me instagram.com/kinggoodplayer
 
 <!---
