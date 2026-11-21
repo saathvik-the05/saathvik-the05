@@ -8,7 +8,7 @@ B.Tech CSE (1st year), CVR College of Engineering, Hyderabad · Member, Literary
 - Calculus and Matrices
 
 ### Independent projects (2020–21)
-- [School Website](https://github.com/saathvik-the05/project-school-website) ([live](https://saathvik-the05.github.io/project-school-website/)): static multi-section site
+- [School Website Mockup](https://github.com/saathvik-the05/project-school-website) ([live](https://saathvik-the05.github.io/project-school-website/)): mockup of a multi-section school website, built for a project
 - [Avengers Character Builder](https://github.com/saathvik-the05/project-avengers-character-builder) ([live](https://saathvik-the05.github.io/project-avengers-character-builder/)): keyboard-controlled canvas game, extended from classwork
 - [Tim Berners-Lee Tribute](https://github.com/saathvik-the05/classwork-project-tim-berners-lee-tribute) ([live](https://saathvik-the05.github.io/classwork-project-tim-berners-lee-tribute/)): started as classwork, developed further
 
